@@ -25,7 +25,7 @@ struct BoardRoomsApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LogInScreen()
         }
         .modelContainer(sharedModelContainer)
     }
