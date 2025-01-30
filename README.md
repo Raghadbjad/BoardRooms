@@ -1,5 +1,8 @@
 # Boardroom
 
+<img width="1600" alt="Cover" src="https://github.com/user-attachments/assets/45c9348c-20ab-4ef9-8316-abfa92934977" />
+
+
 **Boardroom** is a modern and intuitive app designed for employees to easily manage meeting room bookings within a company. It allows employees to log in, view available rooms, book them, and track their previous reservations. The app also provides real-time updates on room availability and status.
 
 ## Key Features:
